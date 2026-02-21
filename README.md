@@ -8,6 +8,11 @@ Angry stackoverflow response > syncophantic AI response
 
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpqN29qeXZ0Nnlua3dtdWhneDkxamc1cXp2cjlpNGU0bTV4OHJ0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xk4piLZg2wfI0oBK1u/giphy.gif)
 
+# ALSO I USE ARCH BTW RAHHHHHH
+
+![arch-linux-cloud](https://github.com/user-attachments/assets/dadf2e39-88d5-46a6-ae4f-d84b9708254c)
+
+
 ## languages i know:
 
 [english](https://esolangs.org/wiki/English) (bonjour oui oui baugette)
