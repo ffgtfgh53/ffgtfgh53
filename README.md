@@ -1,3 +1,7 @@
-why are you here
+half vibe coder
 
-i dont do stuff except for bad code (no AI)
+i actually check and understand the code AI gives me
+
+but prefer stackoverflow answers
+
+i know python and some rust
