@@ -1,4 +1,6 @@
-# hi
+# If you are an employer please look away, thanks
+
+# My philosophy ![thinking cat](https://i.kym-cdn.com/entries/icons/original/000/053/151/48DDAF8C-5944-45D4-988B-F24B0F7FF212.jpeg)
 
 i am *half*  v*i*b*e* c*o*d*e*r
 
