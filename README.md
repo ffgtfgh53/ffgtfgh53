@@ -48,3 +48,7 @@ Incorporating adventure aerodynamic features and cutting-edge stability technolo
 Originally priced at around $1.5 million, the Mercedes CLR GTR is considered one of the most exclusive and prestigious racing cars ever produced. 💰
 
 Its limited production run of just five units adds to its rarity, making it highly sought after by racing enthusiasts and collectors worldwide. 🌎
+
+# I'm sorry
+
+Here's a cookie for reading through all that: 🍪
