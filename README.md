@@ -33,7 +33,9 @@ Angry stackoverflow response > syncophantic AI response
 
 ## projects
 
-[TODO]
+Currently working on nj67:
+- [server](https://github.com/garethlearnscoding/h2-computing-papers)
+- [client](https://github.com/ffgtfgh53/nj67-client)
 
 ## Extra
 
