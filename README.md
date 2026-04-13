@@ -21,7 +21,7 @@ Angry stackoverflow response > syncophantic AI response
 
 *some* (**strong** emphaisis on some) [rust](https://rust.facepunch.com/)
 
-## cat section
+# cat section
 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDMzcmZ6aWFvZ3RxeGczYXdvdzg2bWQ5eDkxeWw5YTg3czNmYmI1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vPzbDN4rBxuvtpSpzF/giphy.gif)
 
@@ -33,12 +33,9 @@ Angry stackoverflow response > syncophantic AI response
 
 ## projects
 
-Currently working on nj67:
-- [server](https://github.com/garethlearnscoding/h2-computing-papers)
-- [client](https://github.com/ffgtfgh53/nj67-client)
-
-## Extra
-
+Currently working on [nj67](https://github.com/garethlearnscoding/h2-computing-papers) (and related repos)
+  
+<!--## Extra
 No problem! Here's the information about the Mercedes CLR GTR:
 
 The Mercedes CLR GTR is a remarkable racing car celebrated for its outstanding performance and sleek design. Powered by a potent 6.0-liter V12 engine, it delivers over 600 horsepower.
@@ -50,6 +47,8 @@ Incorporating adventure aerodynamic features and cutting-edge stability technolo
 Originally priced at around $1.5 million, the Mercedes CLR GTR is considered one of the most exclusive and prestigious racing cars ever produced. 💰
 
 Its limited production run of just five units adds to its rarity, making it highly sought after by racing enthusiasts and collectors worldwide. 🌎
+
+🇸🇬 Singapore is turning rain into drinking water! Through the NEWater system, rainwater and used water are purified using advanced filtration and UV treatment.This ultra-clean water is then reused for industries and even drinking, helping Singapore reduce dependence on imported water. A smart solution for a water-scarce nation turning rain into a reliable resource.-->
 
 # I'm sorry
 
