@@ -31,9 +31,13 @@ Angry stackoverflow response > syncophantic AI response
 
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFlODN1aHg5aGgzcGpyZHdqOGs5bzBrOHR6anU2NjQzNG9qcmI0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YdymLnBeyr70rfKqAj/giphy.gif)
 
-## projects
+## (notable?) past projects
 
-Currently working on [nj67](https://github.com/garethlearnscoding/h2-computing-papers) (and related repos)
+[nj67](https://github.com/garethlearnscoding/nj67-server) (abandoned, i hate docker bruh)
+
+[Funtasia map](https://github.com/Funtasia/app-funtasia) (might work on it again later)
+
+No projects currently, check again later
   
 <!--## Extra
 No problem! Here's the information about the Mercedes CLR GTR:
